@@ -39,18 +39,7 @@
       - **Report:** [Assignment 3 Report](./Assignment-3/Assignment-3.pdf)  
       - **Code:** [Assignment 3 Code](./Assignment-3)
 
-   ## How to Use
-   1. Clone the repository:
-      ```bash
-      git clone https://github.com/your-repo/vision-course.git
-      ```
-   2. Navigate to the relevant assignment directory:
-      ```bash
-      cd assignment-1  # Or cd assignment-2, cd assignment-3
-      ```
-   3. Run the code using Python or MATLAB, depending on the implementation.
-
-   ## Results
+   ## Results Summary
 
    - **Assignment 1:** Achieved efficient edge detection and line fitting using custom filters and Hough Transform.
    - **Assignment 2:** Successfully stitched images with minimal distortion using BRIEF descriptors and homography.
