@@ -25,7 +25,7 @@
       - Homography computation and RANSAC
       - Image stitching using homography
 
-      - **Report:** [Assignment 2 Report](./Assignment-2/Made_Arbi_Parameswara_23522002.pdf)  
+      - **Report:** [Assignment 2 Report](./Assignment-2/Assignment-2.pdf)  
       - **Code:** [Assignment 2 Code](./Assignment-2)
 
    3. **Object Detection on Video (Assignment 3)**  
