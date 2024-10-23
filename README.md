@@ -1,7 +1,7 @@
 
    # IF6083 Vision Course Assignments - Made Arbi Parameswara
 
-   This repository contains the implementations and write-ups for the three major assignments I completed as part of the Vision course at Institut Teknologi Bandung.
+   This repository contains the implementations and write-ups for the three major assignments I completed as part of the Vision course at Institut Teknologi Bandung, where I received excellent marks for this course.
 
    ## Assignments Overview
 
